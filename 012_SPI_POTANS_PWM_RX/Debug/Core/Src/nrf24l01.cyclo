@@ -1,0 +1,16 @@
+../Core/Src/nrf24l01.c:15:6:nrf24_init	1
+../Core/Src/nrf24l01.c:23:6:nrf24_config	1
+../Core/Src/nrf24l01.c:35:6:nrf24_tx_address	1
+../Core/Src/nrf24l01.c:42:6:nrf24_rx_address	1
+../Core/Src/nrf24l01.c:48:6:nrf24_tx_mode	1
+../Core/Src/nrf24l01.c:56:6:nrf24_rx_mode	1
+../Core/Src/nrf24l01.c:64:9:nrf24_send	2
+../Core/Src/nrf24l01.c:99:9:nrf24_dataReady	1
+../Core/Src/nrf24l01.c:107:6:nrf24_getData	1
+../Core/Src/nrf24l01.c:125:13:nrf24_writeRegister	1
+../Core/Src/nrf24l01.c:135:13:nrf24_writeRegisterMulti	1
+../Core/Src/nrf24l01.c:145:13:nrf24_readRegisterMulti	1
+../Core/Src/nrf24l01.c:155:13:nrf24_ceHigh	1
+../Core/Src/nrf24l01.c:161:13:nrf24_ceLow	1
+../Core/Src/nrf24l01.c:167:13:nrf24_csnHigh	1
+../Core/Src/nrf24l01.c:173:13:nrf24_csnLow	1
